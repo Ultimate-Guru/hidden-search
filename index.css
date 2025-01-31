@@ -4,3 +4,17 @@
     outline: none;
     font-family: "Poppins", sans-serif;
 }
+
+.search .input {
+    background-color: #00EBFF;
+    font-size: 16px;
+    color: #1e272e;
+    padding: 15px;
+    height: 40px;
+    width: 40px;
+    transition: width 0.8s ease;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
